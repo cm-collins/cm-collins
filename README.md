@@ -7,9 +7,9 @@
 ## 🚀 About Me
 
 - 👀 I'm passionate about **large-scale system architecture**, **cloud infrastructure**, and **DevOps automation**
-- 🌱 I'm currently exploring **advanced Azure services**, **microservices patterns**, and **AI/ML integration**
+- 🌱 I'm currently working on  **Devops Engineering**, **microservices patterns**, and **Full-Stack Software Engineer**
 - 💞️ I'm looking to collaborate on **enterprise-grade applications**, **cloud migrations**, and **DevOps transformation projects**
-- 📫 How to reach me: **[Your Email]** | **[LinkedIn]** | **[Portfolio Website]**
+- 📫 How to reach me: **dev-collins@outlook.com** | **** | ****
 - 😄 Pronouns: **[Your Pronouns]**
 - ⚡ Fun fact: **I love optimizing CI/CD pipelines and can spend hours fine-tuning deployment strategies!**
 
