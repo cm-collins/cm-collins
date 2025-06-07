@@ -10,7 +10,7 @@
 - 🌱 I'm currently working on  **Devops Engineering**, **microservices patterns**, and **Full-Stack Software Engineer**
 - 💞️ I'm looking to collaborate on **enterprise-grade applications**, **cloud migrations**, and **DevOps transformation projects**
 - 📫 How to reach me: **dev-collins@outlook.com** | **** | ****
-- 😄 Pronouns: **[Your Pronouns]**
+- 😄 Pronouns: **He/Him/Sir/Ceo**
 - ⚡ Fun fact: **I love optimizing CI/CD pipelines and can spend hours fine-tuning deployment strategies!**
 
 ---
