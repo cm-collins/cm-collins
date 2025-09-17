@@ -1,8 +1,8 @@
 <!-- Profile Header -->
 
 <div align="center">
-  <h1>Hey, I’m Dev Collins <span>👋</span></h1>
-  <p><strong>DevOps & Site Reliability Engineer</strong> • <strong>Backend (C#/.NET · Node/TS)</strong></p>
+  <h1>Hey, I’m  Collins Munene <span>👋</span></h1>
+  <p><strong>DevOps & Site Reliability Engineer</strong> • <strong>Backend (C#/.NET · python. Golang. Java . Flutter . Javascript Node/TS)</strong></p>
   <p>Designing systems that are <em>scalable</em>, <em>maintainable</em>, and <em>reliable</em>. yoh — let’s build 🚀</p>
 </div>
 
@@ -49,7 +49,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=<your-github-username>&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </p>
 
+---
 
+### 📫 Reach me
+
+[Email](mailto:<dev-collins@outlook.com>) · [LinkedIn](https://www.linkedin.com/in/collins-munene-547365299/) · [X](https://x.com/collins63760613)
 
 <!-- Footer -->
 
