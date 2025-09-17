@@ -1,8 +1,8 @@
 <!-- Profile Header -->
 
 <div align="center">
-  <h1>Hey, I’m  Collins Munene <span>👋</span></h1>
-  <p><strong>DevOps & Site Reliability Engineer</strong> • <strong>Backend (C#/.NET · python. Golang. Java . Flutter . Javascript Node/TS)</strong></p>
+  <h1>Hey, I’m Collins Munene <span>👋</span></h1>
+  <p><strong>DevOps & Site Reliability Engineer</strong> • <strong>Backend — C#/.NET · Node/TS · Python · Go · Java · Flutter</strong></p>
   <p>Designing systems that are <em>scalable</em>, <em>maintainable</em>, and <em>reliable</em>. yoh — let’s build 🚀</p>
 </div>
 
@@ -10,50 +10,68 @@
 
 ### ⚙️ Tech & Tools
 
+<!-- Clean, reliable icon strip via skillicons (renders on GitHub) -->
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" alt="Azure DevOps"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" height="40" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="40" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opentelemetry.svg" height="40" alt="OpenTelemetry"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,azure,aws,docker,kubernetes,github,linux,nginx,redis,postgres,csharp,nodejs,ts,python,bash,grafana,prometheus&perline=9" alt="Tech stack icons"/>
+</p>
+
+<!-- Extras / not in skillicons: OpenTelemetry -->
+
+<p>
+  <img src="https://cdn.simpleicons.org/opentelemetry" height="40" alt="OpenTelemetry"/>
 </p>
 
 ---
 
 ### 📈 Progress
 
+> Replace `cm-collins` below with your active GitHub username. Your legacy account is already set to **CollinsMunene-Developer** so viewers can see progress over the years.
+
+<details>
+<summary><b>Current account — overview</b></summary>
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=<current-username>&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats (current)" />
 </p>
 <p>
-  <img src="https://streak-stats.demolab.com?user=<your-github-username>&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=<current-username>&theme=transparent&hide_border=true" alt="GitHub Streak (current)" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<current-username>&theme=github-compact&hide_border=true" alt="Activity Graph (current)" />
 </p>
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<your-github-username>&theme=github-compact&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<current-username>&layout=compact&theme=transparent&hide_border=true" alt="Top Languages (current)" />
 </p>
+</details>
+
+<details>
+<summary><b>Legacy account — historical progress</b> <sub>(CollinsMunene-Developer)</sub></summary>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=CollinsMunene-Developer&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats (legacy)" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=CollinsMunene-Developer&theme=transparent&hide_border=true" alt="GitHub Streak (legacy)" />
+</p>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CollinsMunene-Developer&theme=github-compact&hide_border=true" alt="Activity Graph (legacy)" />
+</p>
+</details>
+
+<details>
+<summary><b>Nice-to-have trophies (optional)</b></summary>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=<current-username>&theme=flat&no-frame=true&column=6" alt="GitHub Trophies"/>
+</p>
+</details>
 
 ---
 
 ### 📫 Reach me
 
-[Email](mailto:<dev-collins@outlook.com>) · [LinkedIn](https://www.linkedin.com/in/collins-munene-547365299/) · [X](https://x.com/collins63760613)
+[Email](mailto:dev-collins@outlook.com) · [LinkedIn](https://www.linkedin.com/in/collins-munene-547365299/) · [X](https://x.com/collins63760613)
 
 <!-- Footer -->
 
