@@ -6,8 +6,8 @@
 
 **Building and Running Scalable, Reliable Systems** 🚀
 
-[![Profile Views](https://komarev.com/ghpvc/?username=CollinsMunene-Developer&color=2e9fff&style=flat-square&label=Profile+Views)](https://github.com/CollinsMunene-Developer)
-[![GitHub followers](https://img.shields.io/github/followers/CollinsMunene-Developer?style=flat-square&color=2e9fff&logo=github)](https://github.com/CollinsMunene-Developer?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=cm-collins&color=2e9fff&style=flat-square&label=Profile+Views)](https://github.com/cm-collins)
+[![GitHub followers](https://img.shields.io/github/followers/cm-collins?style=flat-square&color=2e9fff&logo=github)](https://github.com/cm-collins?tab=followers)
 [![X Follow](https://img.shields.io/twitter/follow/collins63760613?style=flat-square&logo=x&color=000000)](https://x.com/collins63760613)
 
 </div>
@@ -75,11 +75,11 @@ I'm a passionate technologist who thrives at the intersection of development and
 
 <div align="center">
   
-![Collins's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CollinsMunene-Developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9FFF&icon_color=2E9FFF&text_color=FFFFFF)
+![Collins's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cm-collins&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9FFF&icon_color=2E9FFF&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CollinsMunene-Developer&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9FFF&fire=2E9FFF&currStreakLabel=2E9FFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cm-collins&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9FFF&fire=2E9FFF&currStreakLabel=2E9FFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsMunene-Developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9FFF&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cm-collins&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9FFF&text_color=FFFFFF)
 
 </div>
 
@@ -89,7 +89,7 @@ I'm a passionate technologist who thrives at the intersection of development and
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=CollinsMunene-Developer&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cm-collins&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -99,7 +99,7 @@ I'm a passionate technologist who thrives at the intersection of development and
 
 <div align="center">
   
-[![Collins's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CollinsMunene-Developer&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9FFF&line=2E9FFF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Collins's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cm-collins&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9FFF&line=2E9FFF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -140,7 +140,8 @@ interests:
 
 [![Email](https://img.shields.io/badge/Email-dev--collins@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dev-collins@outlook.com)
 [![X](https://img.shields.io/badge/X-@collins63760613-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/collins63760613)
-[![GitHub](https://img.shields.io/badge/GitHub-CollinsMunene--Developer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CollinsMunene-Developer)
+[![GitHub](https://img.shields.io/badge/GitHub-cm--collins-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cm-collins)
+[![Previous Work](https://img.shields.io/badge/Previous_Account-CollinsMunene--Developer-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CollinsMunene-Developer)
 
 </div>
 
@@ -150,7 +151,7 @@ interests:
   
 ### 💡 *"The best way to predict the future is to build it."*
 
-![Snake animation](https://raw.githubusercontent.com/CollinsMunene-Developer/CollinsMunene-Developer/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/cm-collins/cm-collins/output/github-contribution-grid-snake-dark.svg)
 
 **Thanks for visiting! Let's build something amazing together** 🚀
 
