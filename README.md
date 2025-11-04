@@ -36,9 +36,6 @@
 <div align="center">
   
 ### 💡 *"The best way to predict the future is to build it."*
-
-![Snake animation](https://raw.githubusercontent.com/cm-collins/cm-collins/output/github-contribution-grid-snake-dark.svg)
-
 **Thanks for visiting! Let's build something amazing together** 🚀
 
 </div>
