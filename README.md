@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 
-I'm a software engineer based in Kenya, working across Android, cloud infrastructure, backend systems, and quantitative research. I build production-grade software at **Shipht/Goodinfo** and contribute to open source.
+I'm a software engineer based in Kenya, working across Android, cloud infrastructure, backend systems, and quantitative research.
 
 - 📱 Android apps with **Kotlin + Jetpack Compose** and Clean Architecture
 - ☁️ Cloud infrastructure on **Azure** with **.NET worker services** and Docker
