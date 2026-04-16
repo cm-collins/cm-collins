@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/collins63760613"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/collins63760613"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=x&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/collins-munene-547365299"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://sessionize.com/dev-collins"><img src="https://img.shields.io/badge/Sessionize-1AB394?style=flat&logo=sessionize&logoColor=white"/></a>
   <a href="mailto:dev-collins@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
   <a href="https://github.com/cm-collins"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
