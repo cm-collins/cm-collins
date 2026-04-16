@@ -18,7 +18,7 @@
 
 ### 👋 About Me
 
-I'm a software engineer based in 🇰🇪 Kenya, working across Android, cloud infrastructure, backend systems, and quantitative research.
+I'm a software engineer based in 🇰🇪 Nairobi, Kenya, working across Android, cloud infrastructure, backend systems, and quantitative research. Previously active as [CollinsMunene-Developer](https://github.com/CollinsMunene-Developer) (May 2024 – Apr 2025) with 59 repos before losing account access.
 
 - 📱 Android apps with **Kotlin + Jetpack Compose** and Clean Architecture
 - ☁️ Cloud infrastructure on **Azure** with **.NET worker services** and Docker
@@ -63,6 +63,8 @@ I'm a software engineer based in 🇰🇪 Kenya, working across Android, cloud i
 ---
 
 ### 🌍 Open Source Contributions
+
+> Contributions span two accounts — [cm-collins](https://github.com/cm-collins) (current) and [CollinsMunene-Developer](https://github.com/CollinsMunene-Developer) (previous, May 2024 – Apr 2025)
 
 <p align="center">
   <a href="https://github.com/openai/openai-dotnet/pull/1032">
