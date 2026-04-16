@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/collins63760613"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=x&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=cm-collins&style=flat&color=302b63&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <a href="https://x.com/collins63760613"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/></a>
   <a href="https://linkedin.com/in/collins-munene-547365299"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://sessionize.com/dev-collins"><img src="https://img.shields.io/badge/Sessionize-1AB394?style=flat&logo=sessionize&logoColor=white"/></a>
   <a href="mailto:dev-collins@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
@@ -14,7 +18,7 @@
 
 ### 👋 About Me
 
-I'm a software engineer based in Kenya, working across Android, cloud infrastructure, backend systems, and quantitative research.
+I'm a software engineer based in 🇰🇪 Kenya, working across Android, cloud infrastructure, backend systems, and quantitative research.
 
 - 📱 Android apps with **Kotlin + Jetpack Compose** and Clean Architecture
 - ☁️ Cloud infrastructure on **Azure** with **.NET worker services** and Docker
@@ -26,11 +30,13 @@ I'm a software engineer based in Kenya, working across Android, cloud infrastruc
 
 ### 🛠 Tech Stack
 
-**Android**
+**Android & Mobile**
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 **Backend & Cloud**
 
@@ -40,6 +46,7 @@ I'm a software engineer based in Kenya, working across Android, cloud infrastruc
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 **Frontend**
 
