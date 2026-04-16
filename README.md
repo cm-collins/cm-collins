@@ -53,39 +53,38 @@ I'm a software engineer based in Kenya, working across Android, cloud infrastruc
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [coffeetaste-android-compose](https://github.com/cm-collins/coffeetaste-android-compose) | Coffee shop app — onboarding, auth, home feed with Material 3 | Kotlin, Compose |
-| [CryptoPulse-Advanced-Compose](https://github.com/cm-collins/CryptoPulse-Advanced-Compose) | One-shot vs streaming data patterns via Ktor WebSockets | Kotlin, Compose, Ktor |
-| [http3-sports-api](https://github.com/cm-collins/http3-sports-api) | HTTP/3 (QUIC) vs HTTP/2 benchmark — live football scores API | C#, .NET 8, Kotlin |
-| [dockerlens](https://github.com/cm-collins/dockerlens) | Native Linux Docker Desktop GUI — no VM, no subscription | Rust, TypeScript, Tauri |
-| [linux-synaptics-hid-fingerprint](https://github.com/cm-collins/linux-synaptics-hid-fingerprint) | Linux kernel driver for Synaptics fingerprint sensors | Rust |
-| [state-event-playground](https://github.com/cm-collins/state-event-playground.) | Jetpack Compose state & event management patterns (UDF) | Kotlin, Compose |
-
----
-
 ### 🌍 Open Source Contributions
 
-Merged PRs in external open source projects:
-
-| Repository | PR | Status |
-|---|---|---|
-| [openai/openai-dotnet](https://github.com/openai/openai-dotnet) | [Add Dev Container setup for contributors](https://github.com/openai/openai-dotnet/pull/1032) | ✅ Merged |
-| [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) | [Update devcontainer configuration to use universal image](https://github.com/Azure/azure-sdk-for-net/pull/55238) | ✅ Merged |
+<p align="center">
+  <a href="https://github.com/openai/openai-dotnet/pull/1032">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=openai&repo=openai-dotnet&theme=tokyonight&hide_border=true&show_owner=true" />
+  </a>
+  <a href="https://github.com/Azure/azure-sdk-for-net/pull/55238">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azure&repo=azure-sdk-for-net&theme=tokyonight&hide_border=true&show_owner=true" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cm-collins&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cm-collins&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cm-collins&theme=tokyonight" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cm-collins&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cm-collins&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cm-collins&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cm-collins&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cm-collins&theme=tokyonight&utcOffset=3" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=cm-collins&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cm-collins&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
