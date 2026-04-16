@@ -66,6 +66,17 @@ I'm a software engineer based in Kenya, working across Android, cloud infrastruc
 
 ---
 
+### 🌍 Open Source Contributions
+
+Merged PRs in external open source projects:
+
+| Repository | PR | Status |
+|---|---|---|
+| [openai/openai-dotnet](https://github.com/openai/openai-dotnet) | [Add Dev Container setup for contributors](https://github.com/openai/openai-dotnet/pull/1032) | ✅ Merged |
+| [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) | [Update devcontainer configuration to use universal image](https://github.com/Azure/azure-sdk-for-net/pull/55238) | ✅ Merged |
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
