@@ -86,7 +86,7 @@ I'm a software engineer based in 🇰🇪 Nairobi, Kenya, working across Android
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cm-collins&theme=tokyonight" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cm-collins&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cm-collins&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cm-collins&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" height="180"/>
 </p>
 
 <p align="center">
